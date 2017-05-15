@@ -1,0 +1,11 @@
+Projekt bêdzie wykonany przy u¿yciu technologii WPF.
+Program s³u¿y do obliczeñ wytrzyma³oœciowych metalowych (lub inny materia³) belek.
+
+Dane wejœciowe (podaje u¿ytkownik) to:
+-parametry belki (wymiary, w³asnoœci wytrzyma³oœciowe),
+-rozstawienie podpór,
+-si³y obci¹¿aj¹ce belkê.
+
+Na podstawie danych wejœciowych program oblicza si³y, momenty, naprê¿enia panuj¹ce w belce. 
+Po dokonaniu obliczeñ wygenerowane zostan¹ wykresy obliczonych wartoœci.  
+Raport z wynikami i wykresami bêdzie mo¿na wygenerowaæ w postaci pliku PDF.
