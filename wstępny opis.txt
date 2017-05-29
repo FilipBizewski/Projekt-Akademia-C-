@@ -1,11 +1,4 @@
-Projekt bêdzie wykonany przy u¿yciu technologii WPF.
-Program s³u¿y do obliczeñ wytrzyma³oœciowych metalowych (lub inny materia³) belek.
-
-Dane wejœciowe (podaje u¿ytkownik) to:
--parametry belki (wymiary, w³asnoœci wytrzyma³oœciowe),
--rozstawienie podpór,
--si³y obci¹¿aj¹ce belkê.
-
-Na podstawie danych wejœciowych program oblicza si³y, momenty, naprê¿enia panuj¹ce w belce. 
-Po dokonaniu obliczeñ wygenerowane zostan¹ wykresy obliczonych wartoœci.  
-Raport z wynikami i wykresami bêdzie mo¿na wygenerowaæ w postaci pliku PDF.
+Program to Menu baru z jedzeniem.
+Nazwa dania, waga i cena jest wpisywana do Text Box'a. Pozycje pojawiajÄ… sie w postaci listy w oknie. Program automatycznie nadaje numery pozycjÄ… daÅ„ w menu.
+Buttonem moÅ¼na usunÄ…Ä‡ pozycjÄ™ z listy, poprzez wpisanie numeru do text box'a i naciÅ›niÄ™cie buttona
+UÅ¼ytkownik wybiera dania z listy podajÄ…c ich numer z listy wyÅ¼ej. ZamÃ³wione dane sÄ… wyÅ›wietlane w drugiej liÅ›cie, program oblicza cenÄ™ i wagÄ™ zamÃ³wienia. 
